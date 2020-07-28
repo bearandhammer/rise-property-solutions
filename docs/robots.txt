@@ -1,0 +1,3 @@
+﻿Sitemap: https://www.risepropertysolutions.co.uk/sitemap.xml
+
+User-agent: *
